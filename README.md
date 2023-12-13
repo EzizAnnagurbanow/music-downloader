@@ -7,8 +7,8 @@ Downloads music files concurrently using asynchronous tasks.
 Provides feedback on successful downloads and missing files.
 
 # Requirements
-Python 3.7+
-aiohttp
+Python 3.7+,
+aiohttp,
 asyncio
 
 # Usage
