@@ -1,7 +1,4 @@
 # music-downloader
-Python script to easily download music
-
-# Music Downloader
 This Python script uses asynchronous features to search for and download music faster across multiple websites.
 
 # Features
